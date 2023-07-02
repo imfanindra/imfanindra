@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/imfanindra18" target="blank"><img src="https://img.shields.io/twitter/follow/imfanindra18?logo=twitter&style=for-the-badge" alt="imfanindra18" /></a> </p>
 
-- 👨‍💻 All of my UX Casestudies are available at [**My Portfolio**](https://imfanindra.framer.website/)
+- 👨‍💻 All of my UX Case studies are available at [**My Portfolio**](https://imfanindra.framer.website/)
 
-- 📝 I write medium blogs on [**Medium**](https://imfanindra.medium.com/)
+- 📝 I write on [**Medium**](https://imfanindra.medium.com/)
 
 - 📫 Email me at **fanifanindra@gmail.com**
 
