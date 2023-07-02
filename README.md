@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fanindra</h1>
-<h3 align="center">a UX/UI Designer and a Computer Science Student. I enjoy handcrafting user experiences that make people’s tasks simpler and more delightful.</h3>
+<h3 align="center">I am a Product (UI/UX) Designer and a Computer Science Student.  I have a knack for blending technology with art for handcrafting user experiences that simplify people's tasks.
+</h3>
 
 <p align="left"> <a href="https://twitter.com/imfanindra18" target="blank"><img src="https://img.shields.io/twitter/follow/imfanindra18?logo=twitter&style=for-the-badge" alt="imfanindra18" /></a> </p>
 
