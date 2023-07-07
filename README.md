@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fanindra</h1>
+<h1 align="center">Hello!, I'm Fanindra</h1>
 <h3 align="center">I am a Product (UI/UX) Designer and a Computer Science Student.  I have a knack for blending technology with art for handcrafting user experiences that simplify people's tasks.
 </h3>
 
