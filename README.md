@@ -10,7 +10,7 @@
 
 - 📫 Email me at **fanifanindra@gmail.com**
 
-- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1vTYqn9_gkTyVIt_cvCJiLvSCSTQp1HLR/view?usp=drive_link)
+- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1OVkra8atwu1hftDHSNIDF6Ohar5ZxZx3/view?usp=sharing)
 
 - 💬 My Skills include  **Figma, Adobe XD, Framer, UX Research, Python, HTML, CSS and JavaScript**
 
