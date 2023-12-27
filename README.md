@@ -1,8 +1,8 @@
 <h1 align="center">Hello!, I'm Fanindra</h1>
-<h3 align="center">I am a Product (UI/UX) Designer and a Computer Science Student.  I have a knack for blending technology with art for handcrafting user experiences that simplify people's tasks.
+<h3 align="center">An aspiring Product (UX/UI) Designer with a passion for handcrafting seamless digital experiences. I love exploring and always want to learn and take on new challenges.
 </h3>
 
-<p align="left"> <a href="https://twitter.com/imfanindra18" target="blank"><img src="https://img.shields.io/twitter/follow/imfanindra18?logo=twitter&style=for-the-badge" alt="imfanindra18" /></a> </p>
+<p align="left"> <a href="https://twitter.com/imfanindra" target="blank"><img src="https://img.shields.io/twitter/follow/imfanindra18?logo=twitter&style=for-the-badge" alt="imfanindra" /></a> </p>
 
 - 👨‍💻 All of my UX Case studies are available at [**My Portfolio**](https://imfanindra.framer.website/)
 
@@ -16,11 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imfanindra18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imfanindra18" height="30" width="40" /></a>
+<a href="https://twitter.com/imfanindra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imfanindra18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fanindra-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fanindra-m" height="30" width="40" /></a>
-<a href="https://instagram.com/imfanindra18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imfanindra18" height="30" width="40" /></a>
-<a href="https://dribbble.com/imfanindra18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="imfanindra18" height="30" width="40" /></a>
-<a href="https://www.behance.net/fanindrmaharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fanindrmaharan" height="30" width="40" /></a>
+<a href="https://www.behance.net/imfanindra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fanindrmaharan" height="30" width="40" /></a>
 <a href="https://medium.com/@imfanindra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imfanindra" height="30" width="40" /></a>
 </p>
 
