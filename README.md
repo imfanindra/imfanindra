@@ -6,6 +6,6 @@ I am a final-year computer science student and Product Designer, fueled by a pas
 
 **Socials:** 
 - Linkedin: https://www.linkedin.com/in/fanindra-m/
-- Twitter: https://twitter.com/imfanindra
 - Medium: https://imfanindra.medium.com/
 - Behance: https://www.behance.net/imfanindra
+- Twitter: https://twitter.com/imfanindra
