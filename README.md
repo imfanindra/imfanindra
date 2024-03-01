@@ -6,7 +6,11 @@ Hey! I am Fanindra, an aspiring Product (UX/UI) Designer, a final-year computer 
 ### 🌐 Socials:
 
 **Get in touch**: mailto:imfanindra@gmail.com
+
 **Connect on LinkedIn**: https://linkedin.com/in/fanindra-m
+
 **I sometimes write here**: https://imfanindra.medium.com/
+
 **Checkout my Behance if you're interested**: https://www.behance.net/imfanindra
+
 **I'm most active here**: https://twitter.com/imfanindra
