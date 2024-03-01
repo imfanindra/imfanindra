@@ -5,12 +5,12 @@ Hey! I am Fanindra, an aspiring Product (UX/UI) Designer, a final-year computer 
 
 ### 🌐 Socials:
 
-**Get in touch**: mailto:imfanindra@gmail.com
+**Get in touch**: [imfanindra@gmail.com](mailto:imfanindra@gmail.com)
 
-**Connect on LinkedIn**: https://linkedin.com/in/fanindra-m
+**Connect on LinkedIn**: [fanindra-m](https://linkedin.com/in/fanindra-m)
 
-**I sometimes write here**: https://imfanindra.medium.com/
+**I sometimes write here**: [Medium](https://imfanindra.medium.com/)
 
-**Checkout my Behance if you're interested**: https://www.behance.net/imfanindra
+**Checkout my Behance if you're interested**: [imfanindra](https://www.behance.net/imfanindra)
 
-**I'm most active here**: https://twitter.com/imfanindra
+**I'm most active here**: [Twitter / X](https://twitter.com/imfanindra)
