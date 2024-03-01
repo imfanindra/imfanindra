@@ -4,8 +4,8 @@ Hey! I am Fanindra, an aspiring Product (UX/UI) Designer, a final-year computer 
 #### My Portfolio Website: https://imfanindra.webflow.io/
 
 ### 🌐 Socials:
-[Email](mailto:imfanindra@gmail.com)<br>
-[LinkedIn](https://linkedin.com/in/fanindra-m)<br>
-[Medium](https://medium.com/@imfanindra)<br>
-[Behance](https://www.behance.net/imfanindra)<br>
-[Twitter](https://twitter.com/imfanindra)
+- Email: mailto:imfanindra@gmail.com
+- LinkedIn: https://linkedin.com/in/fanindra-m
+- Medium: https://imfanindra.medium.com/
+- Behance: https://www.behance.net/imfanindra
+- Twitter: https://twitter.com/imfanindra
