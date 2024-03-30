@@ -1,5 +1,9 @@
 ### 💫 About Me:
-Hey! I am Fanindra, an aspiring Product (UX/UI) Designer, a final-year computer science student passionate about handcrafting seamless digital experiences. I enjoy exploring and always want to learn and take on new challenges. My time as a UX Design Intern at Pulpit Mobility helped me get better at what I do.<br><br>Beyond design, I spend most of my time either watching cricket or exploring my hobbies in architecture, interior design and photography. I'm all ears for discussions on MCU, food, cricket, keyboards, tech, and maps. Let's spark up some engaging talks!
+Hey there, I'm Fanindra, an Interaction Designer who's all about crafting those seamless digital experiences. Funny how life works out—I started off on a B. Tech journey in Computer Science, but design stole my heart along the way. 
+
+I thrive on exploration and embracing new challenges. My time as a UX Design Intern at Pulpit Mobility was a game-changer, fine-tuning my skills and fueling my passion for design. 
+Beyond design, you'll find me soaking up cricket matches or diving into my hobbies in architecture, interior design, and photography. From discussing the latest in the MCU to swapping foodie favorites, diving into tech trends, or discussing keyboards and maps, I'm all ears. Let's kickstart some engaging conversations!
+
 
 #### My Portfolio Website: https://faniux.framer.website/
 
