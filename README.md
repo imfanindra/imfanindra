@@ -2,7 +2,7 @@
 Hey there, I'm Fanindra, an Interaction Designer based in Visakhapatnam, IN.
 
 
-#### My Portfolio Website: fanindra.xyz
+#### My Portfolio Website: https://fanindra.xyz
 
 ### 🌐 Socials:
 
