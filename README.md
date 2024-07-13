@@ -12,8 +12,4 @@ Hi, I'm Fanindra Maharana, an Interaction Design student at JKLU, Jaipur.
 
 **Connect on LinkedIn**: [fanindra-m](https://linkedin.com/in/fanindra-m)
 
-**I sometimes write here**: [Medium](https://imfanindra.medium.com/)
-
 **Checkout my Behance if you're interested**: [imfanindra](https://www.behance.net/imfanindra)
-
-**I'm most active here**: [Twitter / X](https://twitter.com/imfanindra)
