@@ -1,8 +1,10 @@
 ### 💫 About Me:
-Hey there, I'm Fanindra, an Interaction Designer based in Visakhapatnam, IN.
+Hi, I'm Fanindra Maharana, an Interaction Design student at JKLU, Jaipur.
 
 
-#### My Portfolio Website: https://fanindra.xyz
+#### See my work at - https://fanindra.xyz
+
+#### Personal Blog - https://blog.fanindra.xyz/
 
 ### 🌐 Socials:
 
